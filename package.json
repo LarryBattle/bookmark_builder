@@ -1,0 +1,24 @@
+{
+  "name": "bookmark_builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/*_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarryBattle/bookmark_builder.git"
+  },
+  "keywords": [],
+  "author": "Larry Battle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LarryBattle/bookmark_builder/issues"
+  },
+  "homepage": "https://github.com/LarryBattle/bookmark_builder#readme",
+  "dependencies": {
+    "bookmarked": "^3.0.0",
+    "mocha": "^10.2.0"
+  }
+}
